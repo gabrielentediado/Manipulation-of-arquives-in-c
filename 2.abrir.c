@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    //para iniciar um arquivo em C
+    
     FILE *arquivo;
     //para iniciar um arquivo em C
     arquivo = fopen("nome_do_arquivo.txt", "w");
