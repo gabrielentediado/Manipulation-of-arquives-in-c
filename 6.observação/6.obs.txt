@@ -1,8 +1,8 @@
 
-quando você compila o código em c, nada mais que a IDE executa o seu arquivo em alguma pasta,
-se você observar o OUTPUT equanto executa verá o comando de execução do seu arquivo.
-no linux, por exemplo, a IDE executa "./OBS:.c" na pasta "output"
-então, quando você executar pela IDE o arquivo será gerada na pasta que você está
+quando você compila um código em uma IDe, nada mais que a IDE executa o seu arquivo pelo prompt em alguma pasta,
+se você observar o OUTPUT equanto executa verá os comandos de execução do seu arquivo.
+no linux, por exemplo, a IDE executa "./OBS:.c" em alguma pasta, no meu salva na pasta OUTPUT
+então, quando você executar pela IDE o arquivo será gerada na pasta que você está,
 se no terminal você estiver em outro local, exemplo: C:/teste/user/manipular_arquivos -> o arquivo.txt irá para lá
 
 
