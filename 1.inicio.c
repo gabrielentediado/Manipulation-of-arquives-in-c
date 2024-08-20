@@ -2,7 +2,7 @@
 //COMECE POR AQUI!
 
 int main(){
-    //para iniciar um arquivo em C
-    //FILE é um tipo de dado
+    
+    //Ponteiro com o tipo de dado FILE
     FILE *arquivo;
 }
