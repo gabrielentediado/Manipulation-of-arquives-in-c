@@ -6,7 +6,7 @@ então, quando você executar pela IDE o arquivo será gerada na pasta que você
 se no terminal você estiver em outro local, exemplo: C:/teste/user/manipular_arquivos -> o arquivo.txt irá para lá
 
 
-ou criar 2 scripts para exemplificar isso:
+vou criar 2 scripts para exemplificar isso:
 
  - se você usa Windows execute o .bat
  - se você usar Linux exute o .sh 
